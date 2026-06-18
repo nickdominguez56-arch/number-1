@@ -1,0 +1,6 @@
+{
+  "name": "FLAC File Transcriber",
+  "description": "An elegant, full-stack application to upload and transcribe .flac audio files with speaker timestamps, smart summaries, and interactive export tools using the Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
